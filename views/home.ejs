@@ -4,5 +4,12 @@
         <title>UPLOAD</title>
     </head>
     <body>
+        <form action="/upload" method="POST" enctype="multipart/form-data">
+            <input type="text" name="username" placeholder="Enter your name">
+            <br /><br />
+            <input type="file" name="hinhDaiDien">
+            <br /><br />
+            <button>Upload</button>
+        </form>
     </body>
 </html>

@@ -1,12 +1,13 @@
 {
-  "name": "socket0704",
+  "name": "multer1305",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/vanpho93/socket0704.git",
+  "repository": "https://github.com/vanpho93/multer1305.git",
   "author": "Van Pho Nguyen <vanpho02@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.5.6",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "multer": "^1.3.0"
   }
 }
